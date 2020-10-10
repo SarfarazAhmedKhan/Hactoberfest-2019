@@ -92,3 +92,8 @@ master
 - place: Chennai, India
 - Bio: Student at IIIT Sricity
 - Github: [Navanith Rayavarapu](https://github.com/navanith007)
+
+### Name: [Sarfaraz Ahmed Khan](https://github.com/SarfarazAhmedKhan)
+- place: Karachi, Pakistan
+- Bio: BSSE final year at University Of Karachi
+- Github: [Sarfaraz Ahmed Khan](https://github.com/SarfarazAhmedKhan)
